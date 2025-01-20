@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Complaint Management",
+    "visible": false,
+    "contents": [
+      {
+        "title": "Delivery product claim > Claim list",
+        "description": "claimList/BO_F0101_010101.html",
+        "link": "./complaint_mngt/delivery_product_claim_mngt/delivery_product_claim_list/BO_F0101_010101.html",
+        "history": "0919"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+import CompanyCustomerRegistrationPage from './CompanyCustomerRegistrationPage.vue'
+export {CompanyCustomerRegistrationPage}

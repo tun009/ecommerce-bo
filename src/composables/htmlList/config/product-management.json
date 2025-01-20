@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Product Management",
+    "visible": false,
+    "contents": [
+      {
+        "title": "Delivery Product > List",
+        "description": "./product/delivery/list",
+        "link": "/product/delivery-product/list",
+        "history": "1024"
+      },
+      {
+        "title": "Delivery Product > Registration > Base Information",
+        "description": "./product/delivery/base-info",
+        "link": "/product/delivery-product/registration",
+        "history": "1024"
+      },
+      {
+        "title": "Delivery Product > Registration > Exhibition Info",
+        "description": "./product/delivery/exhibition-info",
+        "link": "/product/delivery-product/registration?tab=exhibition",
+        "history": "1025"
+      },
+      {
+        "title": "Delivery Product > Registration > Sales Info",
+        "description": "./product/delivery/sales-info",
+        "link": "/product/delivery-product/registration?tab=sales",
+        "history": "1025"
+      },
+      {
+        "title": "Delivery Product > Registration > Options Stock",
+        "description": "./product/delivery/options-stock",
+        "link": "/product/delivery-product/registration?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Delivery Product > Registration > Shipping Information",
+        "description": "./product/delivery/shipping",
+        "link": "/product/delivery-product/registration?tab=shipping",
+        "history": "1025"
+      },
+      {
+        "title": "Delivery Product > Registration > More Info",
+        "description": "./product/delivery/more-info",
+        "link": "/product/delivery-product/registration?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > List",
+        "description": "./product/ticket/list",
+        "link": "/product/ticket-product/list",
+        "history": "1024"
+      },
+      {
+        "title": "Ticket Product > Registration > Base Information",
+        "description": "./product/ticket/base-info",
+        "link": "/product/ticket-product/registration",
+        "history": "1024"
+      },
+      {
+        "title": "Ticket Product > Registration > Exhibition Info",
+        "description": "./product/ticket/exhibition-info",
+        "link": "/product/ticket-product/registration?tab=exhibition",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > Registration > Sales",
+        "description": "./product/ticket/sales",
+        "link": "/product/ticket-product/registration?tab=sales",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > Registration > Options Stock",
+        "description": "./product/ticket/options-stock",
+        "link": "/product/ticket-product/registration?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > Registration > Release Info",
+        "description": "./product/ticket/release-information",
+        "link": "/product/ticket-product/registration?tab=release-information",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > Registration > More Info",
+        "description": "./product/ticket-product/registration/more-information",
+        "link": "/product/ticket-product/registration?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Ticket Product > Registration > Provision Notice",
+        "description": "./product/ticket-product/registration/provision-notice",
+        "link": "/product/ticket-product/registration?tab=provision-notice",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > List",
+        "description": "./product/approval/delivery/list",
+        "link": "/product/approval/delivery-product",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > Base Information",
+        "description": "./product/approval/delivery/base-info",
+        "link": "/product/approval/delivery-product/edit/1000000000001",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > List",
+        "description": "./product/approval/ticket/list",
+        "link": "/product/approval/ticket-product",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > Sales Information",
+        "description": "./product/approval/delivery/sales-info",
+        "link": "/product/approval/delivery-product/edit/1000000000001?tab=sales",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > Options Stock",
+        "description": "./product/approval/delivery/options-stock",
+        "link": "/product/approval/delivery-product/edit/1000000000001?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > Shipping Information",
+        "description": "./product/approval/delivery/shipping",
+        "link": "/product/approval/delivery-product/edit/1000000000001?tab=shipping",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > Provision Notice",
+        "description": "./product/approval/delivery/provision-notice",
+        "link": "/product/approval/delivery-product/edit/01?tab=provision-notice",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > Base Info",
+        "description": "./product/approval/ticket/base-info",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=base-information",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Delivery Product > Edit > More Information",
+        "description": "./product/approval/delivery/more-information",
+        "link": "/product/approval/delivery-product/edit/1000000000001?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > Exhibition Info",
+        "description": "./product/approval/exhibition",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=exhibition",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > Sales Information",
+        "description": "./product/approval/delivery/sales-info",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=sales",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > Options Stock",
+        "description": "./product/approval/ticket-product/options-stock",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > Release Info",
+        "description": "./product/approval/release-information",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=release-information",
+        "history": "1025"
+      },
+      {
+        "title": "Approval > Ticket Product > Edit > More Information",
+        "description": "./product/approval/ticket/more-information",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Promotion > List",
+        "description": "./product/promotion/list",
+        "link": "/product/promotion/list",
+        "history": "1025"
+      },
+      {
+        "title": "Promotion > Registration",
+        "description": "./product/promotion/registration",
+        "link": "/product/promotion/registration",
+        "history": "1026"
+      },
+      {
+        "title": "Trademark > List",
+        "description": "./product/brand/list",
+        "link": "/product/brand/list",
+        "history": "1025"
+      },
+      {
+        "title": "Trademark > Registration",
+        "description": "./product/brand/registration",
+        "link": "/product/brand/registration",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Registration Representative Image",
+        "description": "./product/ticket/more-information",
+        "link": "/product/ticket-product/registration?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Registration b Video",
+        "description": "./product/ticket/more-information",
+        "link": "/product/ticket-product/registration?tab=more-information",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Registration Brand Image",
+        "description": "./product/brand/registration",
+        "link": "/product/brand/registration",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Product Search",
+        "description": "./product/promotion/registration",
+        "link": "/product/promotion/registration",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Reason Reject Product",
+        "description": "./product/popup/reason-reject",
+        "link": "/product/approval/delivery-product/edit/1000000000001",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Search MD",
+        "description": "./product/popup/search-md",
+        "link": "/product/delivery-product/list",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Search Seller",
+        "description": "./product/popup/search-seller",
+        "link": "/product/delivery-product/list",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Search Customer",
+        "description": "./product/popup/search-customer",
+        "link": "/product/delivery-product/registration",
+        "history": "1025"
+      },
+      {
+        "title": "Popup > Search Brand",
+        "description": "./product/popup/search-brand",
+        "link": "/product/delivery-product/list",
+        "history": "1025"
+      },
+      {
+        "title": "Register Modal > Single Option",
+        "description": "./product/delivery/single-option",
+        "link": "/product/delivery-product/registration?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Register Modal > Multiple Option",
+        "description": "./product/delivery/multiple-option",
+        "link": "/product/delivery-product/registration?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Register Modal > Optional",
+        "description": "./product/delivery/optional",
+        "link": "/product/approval/ticket-product/edit/1000000000001?tab=options-stock",
+        "history": "1025"
+      },
+      {
+        "title": "Supplier Information Modal",
+        "description": "./product/ticket/supplier-information",
+        "link": "/product/ticket-product/list",
+        "history": "1025"
+      }
+    ]
+  }
+]

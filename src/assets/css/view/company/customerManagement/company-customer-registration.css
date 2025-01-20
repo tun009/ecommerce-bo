@@ -1,0 +1,75 @@
+.company-regis-main {
+  padding: var(--d_30);
+}
+.wf_flex-custom {
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+.company-regis-main-title_w-full :deep(p) {
+  width: 100%;
+}
+
+.input_width_75 {
+  width: 100%;
+}
+
+.company-regis-main :deep(.height_30) {
+  height: var(--d_30) !important;
+}
+
+.company-regis-main :deep(.select_custom) {
+  padding: 0 var(--d_12);
+}
+.flex-col {
+  flex-direction: column;
+}
+.custom_py_7 {
+  padding-top: var(--d_7);
+  padding-bottom: var(--d_7);
+}
+.wf_m-w-150 {
+  min-width: 150px;
+}
+.wf_m-t-10 {
+  margin-top: var(--d_10);
+}
+.wf_py-14 {
+  padding-top: var(--d_12);
+  padding-bottom: var(--d_14);
+}
+.wf_set-h-textarea :deep(.p-inputtextarea) {
+  height: var(--d_120);
+}
+.wf_border-b-rm {
+  border-bottom: none;
+}
+.wf_btn-s-20{
+  height: var(--d_20);
+  color: var(--neutral-color-n-52);
+  font-size: var(--d_12);
+  font-weight: 400;
+  line-height: var(--d_12);
+  word-wrap: break-word;
+  width: 53px;
+}
+.wf_w-input-180 :deep(input){
+  width: var(--d_180);
+}
+.text-default{
+  color: var(--neutral-color-n-33);
+}
+.wf_w-fit-content{
+  width: fit-content;
+}
+.wf_custom-form-group-label :deep(.wf_filter-title){
+  align-items: start;
+}
+.wf-textarea-py{
+  padding-top: var(--d_14);
+  padding-bottom: var(--d_31);
+}
+.wf_ic-close-custom{
+  padding-right: var(--d_15);
+  padding-bottom: var(--d_10);
+}

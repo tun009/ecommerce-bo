@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "customerCompanyCode": "0000",
+    "customer": "메가존",
+    "contactStatus": "계약",
+    "numberOfCustomerTenure": "0000",
+    "numberOfCustomerLeave": "0000",
+    "totalHeldPoints": "0000",
+    "totalUsedPoints": "0000",
+    "totalAdjustmentPointAddition": "0000",
+    "totalAdjustmentPointDeduction": "0000"
+  }

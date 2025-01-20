@@ -1,0 +1,22 @@
+{
+  "payment": {
+    "id": 0,
+    "bend": "배정",
+    "pointCode": "000000530gsd",
+    "point": "10,000",
+    "welfarePoints": "OOO 복지포인트 지급",
+    "expirationPeriod": "YYYY.MM.DD HH:MM:SS~YYYY.MM.DD HH:MM:SS",
+    "registrant": "회원명(회원코드)",
+    "registrationDateTime": "YYYY.MM.DD HH:MM:SS"
+  },
+  "usage": {
+    "id": 0,
+    "division": "사용",
+    "pointCode": "000000530test",
+    "point": "-10,000",
+    "welfarePoints": "포인트 조정 및 지급",
+    "orderCode": "1234567890",
+    "registrant": "시스템 (SYSTEM)",
+    "registrationDateTime": "YYYY.MM.DD HH:MM:SS"
+  }
+}

@@ -1,0 +1,364 @@
+/* size */
+
+
+/* height */
+
+.wf_h-full {
+    height: 100%;
+}
+
+.wf_h-auto {
+    height: auto !important;
+}
+
+.wf_h-12 {
+    height: var(--d_12);
+}
+
+.wf_h-20 {
+    height: var(--d_20);
+}
+
+.wf_h-18 {
+    height: var(--d_20) !important;
+}
+
+.wf_h-15 {
+    height: var(--d_15) !important;
+}
+
+.wf_h-40 {
+    height: var(--d_40);
+}
+
+.wf_h-42 {
+    height: 42px !important;
+}
+
+.wf_h-43 {
+    height: var(--d_43);
+}
+
+.wf_h-44 {
+    height: var(--d_44);
+}
+
+.wf_h-45 {
+    height: var(--d_45);
+}
+
+.wf_h-49 {
+    height: var(--d_49);
+}
+
+.wf_h-56 {
+    height: var(--d_56);
+}
+
+.wf_h-82 {
+    height: var(--d_82);
+}
+
+.wf_h-84 {
+    height: var(--d_84);
+}
+
+.wf_h-120 {
+    height: var(--d_120);
+}
+
+.wf_h-50 {
+    height: 50px;
+}
+
+.wf_h-46 {
+    height: 46px !important;
+}
+
+.wf_h-48 {
+    height: 48px !important;
+}
+
+.wf_h-150 {
+    height: 150px !important;
+}
+
+.wf_h-152 {
+    height: 152px !important;
+}
+
+.wf_h-154 {
+    height: 154px;
+}
+
+.wf_h-141 {
+    height: 141px !important;
+}
+
+.wf_h-296 {
+    height: 296px !important;
+}
+
+.wf_h-362 {
+    height: 362px !important;
+}
+
+.wf_h-612 {
+    height: 612px !important;
+}
+
+.wf_h-614 {
+    height: 614px !important;
+}
+
+
+/* width */
+
+.wf_w-full {
+    width: 100% !important;
+}
+
+.wf_w-55_important {
+    width: 55px !important;
+}
+
+.wf_w-45 {
+    width: 45px;
+}
+
+.wf_w-55 {
+    width: 55px;
+}
+
+.wf_w-57 {
+    width: 57px;
+}
+
+.wf_w-66 {
+    width: 66px;
+}
+
+.wf_w-69 {
+    width: 69px;
+}
+
+.wf_w-72 {
+    width: 72px !important;
+}
+
+.wf_w-84 {
+    width: 84px;
+}
+
+.wf_w-91 {
+    width: 91px;
+}
+
+.wf_w-93 {
+    width: 93px;
+}
+
+.wf_w-96 {
+    width: 96px;
+}
+
+.wf_w-100 {
+    width: 6.25rem !important;
+}
+
+.wf_w-102 {
+    width: 102px;
+}
+
+.wf_w-113 {
+    width: 113px !important;
+}
+
+.wf_w-120 {
+    width: 120px !important;
+}
+
+.wf_w-128 {
+    width: 128px !important;
+}
+
+.wf_w-140 {
+    width: 140px !important;
+}
+
+.wf_w-150 {
+    width: 150px;
+}
+
+.wf_w-151 {
+    width: 151px;
+}
+
+.wf_w-153 {
+    width: 153px;
+}
+
+.wf_w-176 {
+    width: 176px !important;
+}
+
+.wf_w-180 {
+    width: 180px !important;
+}
+
+.wf_w-200 {
+    width: 12.5rem !important;
+}
+
+.wf_w-228 {
+    width: 228px;
+}
+
+.wf_w-230 {
+    width: 230px;
+}
+
+.wf_w-300 {
+    width: var(--d_300) !important;
+}
+
+.wf_w-432 {
+    width: 432px;
+}
+
+.wf_w-800 {
+    width: 800px;
+}
+
+.wf_w-1200 {
+    width: 1200px;
+}
+
+
+/* min width */
+
+.wf_min-w-70 {
+    min-width: 4.375rem;
+}
+
+.wf_m-w-150 {
+    min-width: 150px !important;
+}
+
+.wf_m-w-300 {
+    min-width: var(--d_300) !important;
+}
+
+
+/* min height */
+
+.wf_m-w-44 {
+    min-width: 44px !important;
+}
+
+.wf_min-h-49 {
+    min-height: var(--d_49);
+}
+
+.wf_m-w-50 {
+    min-width: 50px !important;
+}
+
+.wf_m-w-68 {
+    min-width: 68px !important;
+}
+
+.wf_m-w-70 {
+    min-width: 70px !important;
+}
+
+.wf_m-w-128 {
+    min-width: 128px !important;
+}
+
+.wf_m-w-140 {
+    min-width: 140px !important;
+}
+
+.wf_m-w-140-not-important {
+    min-width: 140px;
+}
+
+.wf_m-w-159_66 {
+    min-width: 159.66px !important;
+}
+
+.wf_m-w-162 {
+    min-width: 162px !important;
+}
+
+.wf_m-w-168 {
+    min-width: 168px !important;
+}
+
+.wf_m-w-170 {
+    min-width: 170px !important;
+}
+
+.wf_m-w-168_33 {
+    min-width: 168.33px !important;
+}
+
+.wf_m-w-64 {
+    min-width: 64px !important;
+}
+
+.wf_m-w-80 {
+    min-width: 80px !important;
+}
+
+.wf_m-w-120 {
+    min-width: 120px !important;
+}
+
+.wf_m-w-126-not-important {
+    min-width: 126px;
+}
+
+.wf_m-w-136 {
+    min-width: 136px !important;
+}
+
+.wf_m-w-100 {
+    min-width: 100px !important;
+}
+
+.wf_m-w-479 {
+    min-width: 479px !important;
+}
+
+.wf_m-w-111 {
+    min-width: 111px !important;
+}
+
+.wf_m-w-114 {
+    min-width: 114px !important;
+}
+
+.wf_m-w-200 {
+    min-width: 200px !important;
+}
+
+.wf_m-w-250 {
+    min-width: 250px !important;
+}
+
+.wf_m-w-231 {
+    min-width: 231px !important;
+}
+
+.wf_m-w-280 {
+    min-width: 280px !important;
+}
+
+
+/* height input */
+
+.wf_i-h-120 {
+    --height-input: 120px;
+}

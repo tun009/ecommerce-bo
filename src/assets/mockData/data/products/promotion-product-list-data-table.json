@@ -1,0 +1,13 @@
+{
+    "id": "P1234",
+    "promotion_name": "0000 할인",
+    "discount_classification": "판매사",
+    "seller_code": "S3456",
+    "seller": "헤어넷",
+    "coupon_applies": "적용 불가",
+    "promotion_period": "2023.06.01 00:00:00~2023.06.30 00:00:00",
+    "progress": "진행중",
+    "registrant": "Hair_1(김판매)",
+    "registration_date": "2023.06.01 00:00:00",
+    "view": "조회"
+}

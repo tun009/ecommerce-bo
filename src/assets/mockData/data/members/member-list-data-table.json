@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "code": "123456",
+    "name": "김*양",
+    "email": "mega***@mz.co.kr",
+    "phone": "010-****-1234",
+    "gender": "여자",
+    "employeeNumber": "123456",
+    "rank": "과장",
+    "employmentStatus": "재직",
+    "accountStatus": "사용",
+    "membershipLevel": "일반",
+    "customerCompanyCode": "0000",
+    "customer": "㈜기가존",
+    "customerAddress": "서울 강남구 논현로85길 46",
+    "certification": "완료",
+    "marketingConsent": "동의",
+    "lastAccessDate": "YYYY.MM.DD HH:MM:SS",
+    "registrationDateTime": "YYY.MM.DD HH:MM:SS",
+    "isSelected": false
+}

@@ -1,0 +1,2 @@
+import MemberPointAdjustmentRegistrationList from './MemberPointAdjustmentRegistrationList.vue'
+export { MemberPointAdjustmentRegistrationList}

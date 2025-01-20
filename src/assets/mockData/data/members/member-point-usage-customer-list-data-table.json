@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "number": 1,
+    "customerCompanyCode": "0000",
+    "customer": "메가존",
+    "heldPoints": "N,NNN,NNN",
+    "totalUsagePoints": "-N,NNN",
+    "totalDeductionPoints": "N,NNN",
+    "totalAccumulatedPoint": "N,NNN,NNN",
+    "tenure": "N,NNN 명",
+    "leave": "N,NNN 명",
+    "lastUpdateDate": "YYYY.MM.DD HH:MM:SS",
+    "memberRegistrationDate": "YYYY.MM.DD HH:MM:SS"
+}

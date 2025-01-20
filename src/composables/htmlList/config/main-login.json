@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Main(Login)",
+    "visible": true,
+    "contents": [
+      {
+        "title": "Dashboard",
+        "description": "./dashboard",
+        "link": "/",
+        "history": "1011",
+        "visible": true
+      },
+      {
+        "title": "Full menu",
+        "description": "./dashboard/full-menu",
+        "link": "/",
+        "history": "1013"
+      },
+      {
+        "title": "Favorite",
+        "description": "./dashboard/favorite",
+        "link": "/",
+        "history": "1013"
+      },
+      {
+        "title": "Login",
+        "description": "./login",
+        "link": "auth/login",
+        "history": "1012"
+      },
+      {
+        "title": "Auth > User information",
+        "description": "./auth/user-information",
+        "link": "./auth/user-information",
+        "history": "1011"
+      },
+      {
+        "title": "Auth > Edit user information",
+        "description": "./auth/edit-user-information",
+        "link": "./auth/edit-user-information",
+        "history": "1012"
+      },
+      {
+        "title": "Auth > Email authentication",
+        "description": "./auth/email-verification-first-login",
+        "link": "auth/email-verification-first-login",
+        "history": "1011",
+        "visible": false
+      },
+      {
+        "title": "Auth > Email verification",
+        "description": "./auth/email-verification",
+        "link": "auth/email-verification",
+        "history": "1011"
+      },
+      {
+        "title": "Auth > Email verification success",
+        "description": "./auth/email-verification-success",
+        "link": "auth/email-verification-success",
+        "history": "1012"
+      },
+      {
+        "title": "Auth > Email authentication error",
+        "description": "./auth/email-verification-error",
+        "link": "auth/email-verification-error",
+        "history": "1012"
+      },
+      {
+        "title": "Authentication > Change Password (BO_A0103_010101/BO_A0203_030101)",
+        "description": "./auth/change-password",
+        "link": "auth/change-password",
+        "history": "1013"
+      },
+      {
+        "title": "General > Loading",
+        "description": "./system/loading",
+        "link": "/system/loading",
+        "history": "1011 1205"
+      },
+      {
+        "title": "General > System error",
+        "description": "./system/system-error",
+        "link": "/system/system-error",
+        "history": "1011 1205"
+      },
+      {
+        "title": "General > 404 not found",
+        "description": "./system/not-found",
+        "link": "system/not-found",
+        "history": "1011 1205"
+      },
+      {
+        "title": "General > System maintenance",
+        "description": "./system/system-maintenance",
+        "link": "system/system-maintenance",
+        "history": "1011 1205"
+      }
+    ]
+  }
+]

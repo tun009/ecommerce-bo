@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "number": 1,
+    "companyCode": "0000",
+    "customer": "메가존",
+    "employeeCode": "0000",
+    "nameEmployee": "홍길동",
+    "rank": "사원",
+    "heldPoints": "000,000",
+    "usedPoints": "000,000",
+    "deductionPoints": "000,000",
+    "adjustmentPoint": "000,000",
+    "lastUpdateDate": "YYYY.MM.DD HH:MM:SS",
+    "memberRegistrationDate": "YYYY.MM.DD HH:MM:SS"
+}

@@ -1,0 +1,35 @@
+:deep(.wf-member-point-usage-list .p-datatable-table tr:nth-child(1) th:last-child) {
+  min-width: 200px !important;
+}
+
+:deep(.wf-member-point-usage-list .p-datatable-table tr td:last-child) {
+  min-width: 194px !important;
+}
+
+:deep(.wf-member-customer-info-table .p-datatable-table tr:nth-child(1) th:last-child) {
+  min-width: 150px !important;
+  border-bottom: 1px solid var(--neutral-color-ncc);
+}
+
+:deep(.wf-member-customer-info-table .p-datatable-table tr td:last-child) {
+  min-width: 144px !important;
+}
+
+:deep(.wf-member-customer-info-table .p-datatable-table tr:nth-child(1) th:nth-child(4)) {
+  border-bottom: 1px solid var(--neutral-color-ncc);
+}
+
+:deep(.wf-member-customer-company-total-table .p-datatable-table tr:nth-child(2) th:last-child) {
+  border-right: 1px solid var(--neutral-color-ncc);
+}
+
+:deep(.wf-member-customer-company-total-table .p-datatable-table tr:nth-child(1) th:nth-child(2)) {
+  border-bottom: 1px solid var(--neutral-color-ncc);
+}
+
+:deep(.p-datatable-table th:last-child) {
+  min-width: 64px !important;
+}
+:deep(.p-datatable-table td:last-child) {
+  min-width: 58px !important;
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Member Management",
+    "visible": false,
+    "contents": [
+      {
+        "title": "MemberList",
+        "description": "",
+        "link": "",
+        "history": ""
+      },
+      {
+        "title": "Member Detail > Base Info > Consent Marketing",
+        "description": "./member/information/base-information",
+        "link": "/member/information/detail?tab=base-information",
+        "history": "1201"
+      },
+      {
+        "title": "Member Detail > Delivery Address",
+        "description": "./member/information/tab=delivery-address",
+        "link": "/member/information/detail?tab=delivery-address",
+        "history": "1201"
+      },
+      {
+        "title": "Member Detail > Customer Special Info",
+        "description": "./member/information/customer-special-information",
+        "link": "/member/information/detail?tab=customer-special-information",
+        "history": "1201"
+      },
+      {
+        "title": "Member Detail > Customer Special Info > Memo Registration",
+        "description": "./member/information/customer-special-information",
+        "link": "/member/information/detail?tab=customer-special-information",
+        "history": "1201"
+      },
+      {
+        "title": "Member Detail > Customer Special Info > Memo Detail",
+        "description": "./member/information/customer-special-information",
+        "link": "/member/information/detail?tab=customer-special-information",
+        "history": "1201"
+      },
+      {
+        "title": "Member Detail > Customer Special Info > Black Member Registration",
+        "description": "./member/information/customer-special-information",
+        "link": "/member/information/detail?tab=customer-special-information",
+        "history": "1201"
+      },
+      {
+        "title": "Member Individual Member Registration",
+        "description": "./member/information/individual-member-registration",
+        "link": "/member/information/individual-member-registration",
+        "history": "1201"
+      },
+      {
+        "title": "Member Bulk Registration Succeed",
+        "description": "./member/information/bulk-registration?tab=success",
+        "link": "/member/information/bulk-registration",
+        "history": "1204"
+      },
+      {
+        "title": "Member Bulk Registration Failed",
+        "description": "./member/information/individual-member-registration",
+        "link": "/member/information/bulk-registration?tab=failed",
+        "history": "1204"
+      },
+      {
+        "title": "Member Bulk Registration Completed Upload",
+        "description": "./member/information/individual-member-registration",
+        "link": "/member/information/bulk-registration?tab=success",
+        "history": "1204"
+      }
+    ]
+  }
+]

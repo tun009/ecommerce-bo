@@ -1,0 +1,12 @@
+{
+    "couponCode": "00000053041",
+    "couponName": "쿠폰명1",
+    "couponType": "상품",
+    "discountAmount": "2000원",
+    "usage": "2,000",
+    "date": "YYYY.MM.DD HH:MM:SS",
+    "available": "사용",
+    "orderNumber": "2023061912345",
+    "registrant": "회원명(회원코드)",
+    "registrationDateTime": "YYYY.MM.DD HH:MM:SS"
+}
